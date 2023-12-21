@@ -1,0 +1,38 @@
+.our_project{
+    display: flex;
+    justify-content: space-between;
+}
+.slid_img_oval{
+    display: inline-flex;
+}
+.our_project_heading{
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+color: #000000;
+display: block;
+overflow: hidden;
+
+
+}
+.our_project_heading_6{
+font-family: 'Sintony';
+font-style: normal;
+font-weight: 400;
+font-size: 34px;
+color: #222A41;
+display: block;
+overflow: hidden;
+}
+
+.our_project_heading_para{
+font-family: 'Sintony';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+color: #222A41;
+display: block;
+overflow: hidden;
+}
